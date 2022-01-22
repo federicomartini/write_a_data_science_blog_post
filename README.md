@@ -9,6 +9,8 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
+The **Dataset** file used for this project is available on [Kaggle](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020/data). If you want to run the Jupyter Notebook on the Dataset, make sure to copy the `survey_results_public.csv` in the `/Archive/StackOverflowSurvey_2020/developer_survey_2020/` folder available in this project.
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2020 to answer to the question:
