@@ -1,6 +1,3 @@
-# write_a_data_science_blog_post
-Write a Data Science Blog Post - Udacity Data Scientist Nanodegree
-
 # Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
