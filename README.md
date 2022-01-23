@@ -31,7 +31,7 @@ The **Archive** folder contains the Dataset about the [**Stackoverflow's 2020 An
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@martini.f/what-can-you-do-to-aim-at-a-good-salary-in-the-united-states-as-a-software-developer-if-your-7fb68d6d4102).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
