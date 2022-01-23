@@ -9,8 +9,6 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
 
-The **Dataset** file used for this project is available on [Kaggle](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020/data). You can find it with the name `survey_results_public.csv` in the folder `./Archive/StackOverflowSurvey_2020/developer_survey_2020/`.
-
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2020 to answer to the question:
@@ -27,7 +25,7 @@ To answer that question, I broke down the study to answer multiple questions, th
 
 ## File Descriptions <a name="files"></a>
 
-There are one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 The **Archive** folder contains the Dataset about the [**Stackoverflow's 2020 Annual Developer Survey**](https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020).
 
